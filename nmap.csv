@@ -1,0 +1,164 @@
+IP,Host,OS,Proto,Port,Service,Product,Service FP,NSE Script ID,NSE Script Output,Notes
+104.21.17.225,seller-api.tamanna.com,,tcp,80,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller-api.tamanna.com,,tcp,443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller-api.tamanna.com,,tcp,2052,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller-api.tamanna.com,,tcp,2053,http,nginx,,http-server-header,cloudflare
+104.21.17.225,seller-api.tamanna.com,,tcp,2082,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller-api.tamanna.com,,tcp,2083,http,nginx,,http-server-header,cloudflare
+104.21.17.225,seller-api.tamanna.com,,tcp,2086,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller-api.tamanna.com,,tcp,2087,http,nginx,,http-server-header,cloudflare
+104.21.17.225,seller-api.tamanna.com,,tcp,2095,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller-api.tamanna.com,,tcp,2096,http,nginx,,http-server-header,cloudflare
+104.21.17.225,seller-api.tamanna.com,,tcp,8080,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller-api.tamanna.com,,tcp,8443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller-api.tamanna.com,,tcp,8880,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,api.tamanna.com,,tcp,80,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,api.tamanna.com,,tcp,443,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,api.tamanna.com,,tcp,2052,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,api.tamanna.com,,tcp,2053,http,nginx,,http-server-header,cloudflare
+172.67.178.159,api.tamanna.com,,tcp,2082,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,api.tamanna.com,,tcp,2083,http,nginx,,http-server-header,cloudflare
+172.67.178.159,api.tamanna.com,,tcp,2086,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,api.tamanna.com,,tcp,2087,http,nginx,,http-server-header,cloudflare
+172.67.178.159,api.tamanna.com,,tcp,2095,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,api.tamanna.com,,tcp,2096,http,nginx,,http-server-header,cloudflare
+172.67.178.159,api.tamanna.com,,tcp,8080,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,api.tamanna.com,,tcp,8443,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,api.tamanna.com,,tcp,8880,http,Cloudflare http proxy,,http-server-header,cloudflare
+142.250.193.19,track.tamanna.com,,tcp,80,http,Google httpd,,http-server-header,"
+  Google Frontend
+  ghs"
+142.250.193.19,track.tamanna.com,,tcp,443,http,Google httpd,,http-server-header,"
+  Google Frontend
+  ghs"
+142.250.193.19,track.tamanna.com,,tcp,8080,http-proxy,,,,
+104.22.63.243,sni.cloudflaressl.com,,tcp,80,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.22.63.243,sni.cloudflaressl.com,,tcp,443,https,cloudflare,,http-server-header,cloudflare
+104.22.63.243,sni.cloudflaressl.com,,tcp,2052,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.22.63.243,sni.cloudflaressl.com,,tcp,2053,http,nginx,,http-server-header,cloudflare
+104.22.63.243,sni.cloudflaressl.com,,tcp,2082,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.22.63.243,sni.cloudflaressl.com,,tcp,2083,http,nginx,,http-server-header,cloudflare
+104.22.63.243,sni.cloudflaressl.com,,tcp,2086,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.22.63.243,sni.cloudflaressl.com,,tcp,2087,http,nginx,,http-server-header,cloudflare
+104.22.63.243,sni.cloudflaressl.com,,tcp,2095,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.22.63.243,sni.cloudflaressl.com,,tcp,2096,http,nginx,,http-server-header,cloudflare
+104.22.63.243,sni.cloudflaressl.com,,tcp,8080,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.22.63.243,sni.cloudflaressl.com,,tcp,8443,https-alt,cloudflare,,http-server-header,cloudflare
+104.22.63.243,sni.cloudflaressl.com,,tcp,8880,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,tamanna.com,,tcp,80,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,tamanna.com,,tcp,443,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,tamanna.com,,tcp,2052,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,tamanna.com,,tcp,2053,http,nginx,,http-server-header,cloudflare
+172.67.178.159,tamanna.com,,tcp,2082,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,tamanna.com,,tcp,2083,http,nginx,,http-server-header,cloudflare
+172.67.178.159,tamanna.com,,tcp,2086,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,tamanna.com,,tcp,2087,http,nginx,,http-server-header,cloudflare
+172.67.178.159,tamanna.com,,tcp,2095,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,tamanna.com,,tcp,2096,http,nginx,,http-server-header,cloudflare
+172.67.178.159,tamanna.com,,tcp,8080,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,tamanna.com,,tcp,8443,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,tamanna.com,,tcp,8880,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,www.tamanna.com,,tcp,80,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,www.tamanna.com,,tcp,443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,www.tamanna.com,,tcp,2052,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,www.tamanna.com,,tcp,2053,http,nginx,,http-server-header,cloudflare
+104.21.17.225,www.tamanna.com,,tcp,2082,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,www.tamanna.com,,tcp,2083,http,nginx,,http-server-header,cloudflare
+104.21.17.225,www.tamanna.com,,tcp,2086,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,www.tamanna.com,,tcp,2087,http,nginx,,http-server-header,cloudflare
+104.21.17.225,www.tamanna.com,,tcp,2095,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,www.tamanna.com,,tcp,2096,http,nginx,,http-server-header,cloudflare
+104.21.17.225,www.tamanna.com,,tcp,8080,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,www.tamanna.com,,tcp,8443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,www.tamanna.com,,tcp,8880,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,admin.tamanna.com,,tcp,80,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,admin.tamanna.com,,tcp,443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,admin.tamanna.com,,tcp,2052,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,admin.tamanna.com,,tcp,2053,http,nginx,,http-server-header,cloudflare
+104.21.17.225,admin.tamanna.com,,tcp,2082,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,admin.tamanna.com,,tcp,2083,http,nginx,,http-server-header,cloudflare
+104.21.17.225,admin.tamanna.com,,tcp,2086,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,admin.tamanna.com,,tcp,2087,http,nginx,,http-server-header,cloudflare
+104.21.17.225,admin.tamanna.com,,tcp,2095,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,admin.tamanna.com,,tcp,2096,http,nginx,,http-server-header,cloudflare
+104.21.17.225,admin.tamanna.com,,tcp,8080,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,admin.tamanna.com,,tcp,8443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,admin.tamanna.com,,tcp,8880,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,graphql.tamanna.com,,tcp,80,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,graphql.tamanna.com,,tcp,443,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,graphql.tamanna.com,,tcp,2052,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,graphql.tamanna.com,,tcp,2053,http,nginx,,http-server-header,cloudflare
+172.67.178.159,graphql.tamanna.com,,tcp,2082,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,graphql.tamanna.com,,tcp,2083,http,nginx,,http-server-header,cloudflare
+172.67.178.159,graphql.tamanna.com,,tcp,2086,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,graphql.tamanna.com,,tcp,2087,http,nginx,,http-server-header,cloudflare
+172.67.178.159,graphql.tamanna.com,,tcp,2095,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,graphql.tamanna.com,,tcp,2096,http,nginx,,http-server-header,cloudflare
+172.67.178.159,graphql.tamanna.com,,tcp,8080,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,graphql.tamanna.com,,tcp,8443,http,Cloudflare http proxy,,http-server-header,cloudflare
+172.67.178.159,graphql.tamanna.com,,tcp,8880,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller.tamanna.com,,tcp,80,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller.tamanna.com,,tcp,443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller.tamanna.com,,tcp,2052,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller.tamanna.com,,tcp,2053,http,nginx,,http-server-header,cloudflare
+104.21.17.225,seller.tamanna.com,,tcp,2082,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller.tamanna.com,,tcp,2083,http,nginx,,http-server-header,cloudflare
+104.21.17.225,seller.tamanna.com,,tcp,2086,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller.tamanna.com,,tcp,2087,http,nginx,,http-server-header,cloudflare
+104.21.17.225,seller.tamanna.com,,tcp,2095,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller.tamanna.com,,tcp,2096,http,nginx,,http-server-header,cloudflare
+104.21.17.225,seller.tamanna.com,,tcp,8080,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller.tamanna.com,,tcp,8443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,seller.tamanna.com,,tcp,8880,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,mon.tamanna.com,,tcp,80,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,mon.tamanna.com,,tcp,443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,mon.tamanna.com,,tcp,2052,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,mon.tamanna.com,,tcp,2053,http,nginx,,http-server-header,cloudflare
+104.21.17.225,mon.tamanna.com,,tcp,2082,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,mon.tamanna.com,,tcp,2083,http,nginx,,http-server-header,cloudflare
+104.21.17.225,mon.tamanna.com,,tcp,2086,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,mon.tamanna.com,,tcp,2087,http,nginx,,http-server-header,cloudflare
+104.21.17.225,mon.tamanna.com,,tcp,2095,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,mon.tamanna.com,,tcp,2096,http,nginx,,http-server-header,cloudflare
+104.21.17.225,mon.tamanna.com,,tcp,8080,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,mon.tamanna.com,,tcp,8443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,mon.tamanna.com,,tcp,8880,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,logs.tamanna.com,,tcp,80,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,logs.tamanna.com,,tcp,443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,logs.tamanna.com,,tcp,2052,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,logs.tamanna.com,,tcp,2053,http,nginx,,http-server-header,cloudflare
+104.21.17.225,logs.tamanna.com,,tcp,2082,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,logs.tamanna.com,,tcp,2083,http,nginx,,http-server-header,cloudflare
+104.21.17.225,logs.tamanna.com,,tcp,2086,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,logs.tamanna.com,,tcp,2087,http,nginx,,http-server-header,cloudflare
+104.21.17.225,logs.tamanna.com,,tcp,2095,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,logs.tamanna.com,,tcp,2096,http,nginx,,http-server-header,cloudflare
+104.21.17.225,logs.tamanna.com,,tcp,8080,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,logs.tamanna.com,,tcp,8443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,logs.tamanna.com,,tcp,8880,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,launch.tamanna.com,,tcp,80,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,launch.tamanna.com,,tcp,443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,launch.tamanna.com,,tcp,2052,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,launch.tamanna.com,,tcp,2053,http,nginx,,http-server-header,cloudflare
+104.21.17.225,launch.tamanna.com,,tcp,2082,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,launch.tamanna.com,,tcp,2083,http,nginx,,http-server-header,cloudflare
+104.21.17.225,launch.tamanna.com,,tcp,2086,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,launch.tamanna.com,,tcp,2087,http,nginx,,http-server-header,cloudflare
+104.21.17.225,launch.tamanna.com,,tcp,2095,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,launch.tamanna.com,,tcp,2096,http,nginx,,http-server-header,cloudflare
+104.21.17.225,launch.tamanna.com,,tcp,8080,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,launch.tamanna.com,,tcp,8443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,launch.tamanna.com,,tcp,8880,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,airflow.tamanna.com,,tcp,80,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,airflow.tamanna.com,,tcp,443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,airflow.tamanna.com,,tcp,2052,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,airflow.tamanna.com,,tcp,2053,http,nginx,,http-server-header,cloudflare
+104.21.17.225,airflow.tamanna.com,,tcp,2082,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,airflow.tamanna.com,,tcp,2083,http,nginx,,http-server-header,cloudflare
+104.21.17.225,airflow.tamanna.com,,tcp,2086,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,airflow.tamanna.com,,tcp,2087,http,nginx,,http-server-header,cloudflare
+104.21.17.225,airflow.tamanna.com,,tcp,2095,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,airflow.tamanna.com,,tcp,2096,http,nginx,,http-server-header,cloudflare
+104.21.17.225,airflow.tamanna.com,,tcp,8080,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,airflow.tamanna.com,,tcp,8443,http,Cloudflare http proxy,,http-server-header,cloudflare
+104.21.17.225,airflow.tamanna.com,,tcp,8880,http,Cloudflare http proxy,,http-server-header,cloudflare
